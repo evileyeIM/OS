@@ -1,0 +1,7 @@
+﻿  01-CreateThread.cpp
+c:\users\alexe\downloads\01-createthread.cpp(8): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\alexe\downloads\01-createthread.cpp(10): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\alexe\downloads\01-createthread.cpp(22): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\alexe\downloads\01-createthread.cpp(65): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+c:\users\alexe\downloads\01-createthread.cpp(67): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+  OperationSystemsLab1Threads.vcxproj -> C:\Users\alexe\source\repos\OperationSystemsLab1Threads\Debug\OperationSystemsLab1Threads.exe

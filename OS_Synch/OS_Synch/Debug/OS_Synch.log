@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\alexe\source\repos\os_synch\os_synch\main.cpp(64): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\alexe\source\repos\os_synch\os_synch\main.cpp(95): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  OS_Synch.vcxproj -> C:\Users\alexe\source\repos\OS_Synch\Debug\OS_Synch.exe
